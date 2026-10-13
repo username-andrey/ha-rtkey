@@ -1,0 +1,6 @@
+DOMAIN = "rtkey"
+CONF_TOKEN = "token"
+CONF_DEVICE_ID = "device_id"
+AUTH_BASE = "https://keyapis.key.rt.ru/identity/api/v1/authorization"
+CAMERAS_URL = "https://keyapis.key.rt.ru/vc/api/v1/camera_video_data/list?paging.limit=100&paging.offset=0"
+INTERCOMS_URL = "https://household.key.rt.ru/api/v2/app/devices/intercom"
